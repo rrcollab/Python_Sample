@@ -48,6 +48,6 @@ def symmetry(a):
     else: 
         print("The entered string is not symmetrical") 
           
-string = 'amaama'
+string = 'abccba'
 palindrome(string) 
 symmetry(string) 
